@@ -1,17 +1,18 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+- name: Prof. Nicholas Xuanlai Fang
+  photo: nicxfang.jpg
+  info: Chair Professor of Photonics Innovation, Mechanical Engineering, The University of Hong Kong
+  email: nicxfang@hku.hk
+#  github: https://github.com/
+  # researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?user=PcoqNjgAAAAJ&hl
+  # cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2004) Ph.D. Mechanical Engineering, University of California - Los Angeles",
+      "(1998) M.S. Physics, Nanjing University",
+      "(1996) B.S. Physics, Nanjing University"
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2004) Ph.D. Mechanical Engineering, UCLA", "(1998) M.S. Physics, NJU", "(1996) B.S. Physics, NJU"]

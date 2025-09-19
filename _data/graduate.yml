@@ -1,0 +1,79 @@
+- name: Fangyu Liu
+  photo: team/fyliu.jpg
+  email: liu-fy025@connect.hku.hk
+  role: 2025 PhD student
+  info: "I am interested in integrated photonic transmitter, scatter wavefront sensing and quantum enhanced imaging."
+  # website: https://website.com
+
+- name: Helios Yongnan Li
+  photo: team/heliosli.jpg
+  email: heliosynl@connect.hku.hk
+  github: https://github.com/heliosynl
+  scholar: https://scholar.google.com/citations?user=ht5Ifj4AAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Helios-Y-Li
+  role: 2023 PhD candidate
+  info: "I interest in low dimensional materials, atomic and electronic scale simulation, spectrometry and spectroscopy."
+  website: https://heliosynl.github.io/
+
+- name: Joey Zhouyuntong Liu
+  photo: team/joeyliu.jpg
+  email: lzyt66@connect.hku.hk
+  scholar: https://scholar.google.co.uk/citations?user=Ympbp5UAAAAJ&hl=zh-CN
+  role: 2024 PhD student
+  info: "My research interests include electrode materials design, thermally regenerative cell, ionic thermoelectric hydrogels, and flexible wearable devices."
+  # website: https://website.com
+
+- name: Joshua Weiwei Zhang
+  photo: team/joshuazhang.jpg
+  email: joshuaweiweizhang@connect.hku.hk
+  role: 2023 PhD candidate
+  info: "My research interests include viscoelastic material, ultrasound-responsive material and wave behavior."
+  # website: https://website.com
+
+- name: Pingping Zhang
+  photo: team/ppzhang.jpg
+  email: ppzhang@connect.hku.hk
+  scholar: https://scholar.google.com/citations?hl=zh-CN&user=tYSCWn4AAAAJ
+  role: 2023 PhD candidate
+  info: "My research interests focus on the interaction between 2D perovskite and surface acoustic waves to understand the optical properties under external fields and then achieve optical modulations for applications, like tunable light sources."
+  # website: https://website.com
+
+- name: Shuohan Liu
+  photo: team/shliu.jpg
+  email: shuohanliu@connect.hku.hk
+  role: 2025 PhD student
+  info: "I focus on acoustic and thermal meta-structure."
+  # website: https://website.com
+
+- name: Simon Siming Jiang
+  photo: team/simonjiang.jpg
+  email: u3011866@connect.hku.hk
+  role: 2024 PhD student
+  info: "My research interests include mechanical microstructure design, Cu-Cu direct bonding, mechanical metamaterial."
+  # website: https://website.com
+
+- name: Yang Yan
+  photo: team/yyang.jpg
+  email: yy_yanyang@connect.hku.hk
+  role: 2024 PhD student
+  info: ""
+  # website: https://website.com
+
+- name: Yihan Jin
+  photo: team/yhjin.png
+  email: jinyihan1001@connect.hku.hk
+  github: https://github.com/Richardo1001
+  role: 2025 PhD student
+  info: "My research focuses on medical ultrasound, specifically robotic ultrasound imaging (including intercostal approaches) and ultrasound neuromodulation (particularly transcranial applications)."
+  # website: https://website.com
+
+- name: Zaiwang Zhou
+  photo: team/zwzhou.png
+  email: zaiwangzhou@connect.hku.hk
+  role: 2025 PhD student
+  info: "PhD student in mechanical engineering with three years of experience in medical image processing, robotic surgery, and image-guided therapy, focused on enhancing surgical precision and patient outcomes. Currently developing ultrasound technology for clinical applications, with a commitment to advancing healthcare through innovation and translational research."
+  # website: https://website.com
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info

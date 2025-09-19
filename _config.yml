@@ -1,9 +1,9 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Lab of Scalable and Sustainable Photonic Manufacturing
+email: nicxfang@hku.hk
+description: Prof. Nick Fang's Research Group Website
 baseurl: ""
-url: ""
+url: "nicxfang.github.io"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -12,26 +12,29 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Nick Fang<br/>
+  Chair Professor of Photonics Innovation<br/>
+  Mechanical Engineering<br/>
+  The University of Hong Kong
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Office Rm 724, Lab Rm 116<br/>
+  Haking Wong Building<br/>
+  The University of Hong Kong<br/>
+  Pokfulam, Hong Kong
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+  <a href="mailto:nicxfang@hku.hk" target="_blank"><i class="fa fa-envelope fa-1x"></i> nicxfang@hku.hk</a> <br/>
+  <i class="fa fa-phone fa-1x"></i> +(852) 3917 2639
+#  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
+#  - name: talks
   - name: research
-  - name: software
+#  - name: software
   - name: team
   - name: teaching
   - name: blogs
@@ -69,7 +72,7 @@ scholar:
   locale: en
 
   source: /assets/
-  bibliography: ref.bib
+  bibliography: publications.bib
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending
