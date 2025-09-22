@@ -48,7 +48,7 @@
   photo: team/shliu.jpg
   email: shuohanliu@connect.hku.hk
   role: 2025 PhD student
-  info: "I focus on acoustic and thermal meta-structure."
+  info: "My research focuses on the design and analysis of acoustic metamaterials and metasurfaces, combining structural optimization, COMSOL multiphysics simulations, and experimental measurements in impedance tubes. I investigate advanced non-reciprocal acoustic devices, bridging theoretical models with laboratory validation, and explore how tailored geometries, porosity, and tortuosity can control wave propagation. This work integrates fundamental theory, numerical modeling, and experimental acoustics to develop innovative structures for sound absorption, insulation, and non-reciprocal transmission."
   # website: https://website.com
 
 - name: Simon Siming Jiang
