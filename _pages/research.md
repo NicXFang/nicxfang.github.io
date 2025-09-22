@@ -31,7 +31,7 @@ iframe {
 </style>
 
 ## Research
-The research efforts at Professor Fang’s group concentrate on focusing **wave physics** into sub-wavelength scales. While the main efforts focus on new insights of design for advanced manufacturing of **wave functional material and devices**, his group also actively pursue the applications in the areas of **energy conversion**, **communication**, and **biomedical imaging**. His research also leads to over 16 patent applications on nano- and micro-fabrication, additive manufacturing, and imaging technologies with successful technology transfer to industry (e.g. Osram, BASF, Nissan) and startups.
+The research efforts in Professor Fang’s group concentrate on focusing **wave physics** into sub-wavelength scales. While the main efforts focus on new insights of design for advanced manufacturing of **wave functional material and devices**, his group also actively pursue the applications in the areas of **energy conversion**, **communication**, and **biomedical imaging**. His research also leads to over 16 patent applications on nano- and micro-fabrication, additive manufacturing, and imaging technologies with successful technology transfer to industry (e.g. Osram, BASF, Nissan) and startups.
 
 <hr>
 <div class="jumbotron">
@@ -90,6 +90,7 @@ Dong, E., et al., Soft Metalens for Broadband Ultrasonic Focusing through Aberra
 <p align="center">
   <img src='/images/researchpic/Slide6.PNG' width="80%"/>
 </p>
+Ghanbarzadeh-Dagheyan, A., Dong, E., et al., A Meta Matching Layer to Image Behind Calcified Plaques. <i>2024 IEEE UFFC-JS</i>, Taipei, Taiwan (2024)
 <a href="https://doi.org/10.1109/UFFC-JS60046.2024.10793787">Read more</a>
 
 <!-- ##### Microscopy unraveling acoustic responsive dancing in Codariocalyx motorius
@@ -101,6 +102,7 @@ Dong, E., et al., Soft Metalens for Broadband Ultrasonic Focusing through Aberra
 <p align="center">
   <img src='/images/researchpic/Slide8.PNG' width="80%"/>
 </p>
+Xi, Y., Li, H., et al., Tailoring 4H-SiC Surface Electronic States by Atomic-Layer Deposition for Ideal Peta-Ohm Resistors. <i>arXiv preprint</i> (2025)
 <a href="https://doi.org/10.48550/arXiv.2407.10208">Read more</a>
 
 </div>
@@ -117,6 +119,7 @@ Dong, E., et al., Soft Metalens for Broadband Ultrasonic Focusing through Aberra
 <p align="center">
   <img src='/images/researchpic/Slide9.PNG' width="80%"/>
 </p>
+Zhou, N., Huang, T., Li, H., et al., Phase amplification microscopy towards femtometer accuracy. <i>arXiv preprint</i> (2025)
 
 <!-- ##### Energy transfer exploration in Mn2+ doped perovskite
 <p align="center">
