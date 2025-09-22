@@ -12,7 +12,13 @@
   scholar: https://scholar.google.com/citations?user=ht5Ifj4AAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Helios-Y-Li
   role: 2023 PhD candidate
-  info: "I interest in low dimensional materials, atomic and electronic scale simulation, spectrometry and spectroscopy."
+  info: "I interest in low dimensional materials, atomic and electronic scale simulation, spectrometry and spectroscopy.\n
+  - Ab-initio Calculation (Density Functional Theory)\n
+  - Atomistic Modeling\n
+  - Light-Matter Interaction (Material Electromagnetic, Thermal Responses)\n
+  - Quantum Hydrodynamic Theory\n
+  - 2D Material Tight-Binding System\n
+  - Wave Behaviors"
   website: https://heliosynl.github.io/
 
 - name: Joey Zhouyuntong Liu

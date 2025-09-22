@@ -25,7 +25,7 @@
   photo: team/jpfang.jpg
   email: jpfang@hku.hk
   role: Postdoc
-  info: "My research focuses on advanced packaging and system integration for integrated circuits.
+  info: "My research focuses on advanced packaging and system integration for integrated circuits.\n
   - Hybrid Bonding and Low Temperature Bonding \n
   - High-Density Inter connections for Chiplet Integration \n
   - Heterogenous Integration \n
@@ -37,7 +37,12 @@
   email: qusichao@hku.hk
   scholar: https://scholar.google.com.hk/citations?user=0dOO4XYAAAAJ&hl=zh-CN
   role: Research Assistant Professor
-  info: "My research interests include absorption metamaterials and general wave physics."
+  info: "My research interests include absorption metamaterials and general wave physics.\n
+  - Spectral bounds for scatterings\n
+  - Customizable absorbers \n
+  - Effective medium theory\n
+  - Applications of acoustic metamaterials\n
+  - Broadband underwater and microwave devices"
   website: https://qusichao.github.io/
 
 - name: Dr. Xiaoling Zhong

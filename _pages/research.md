@@ -2,7 +2,7 @@
 title: "Research"
 layout: gridlay
 sitemap: false
-permalink: /research/
+permaRead more: /research/
 ---
 
 <style>
@@ -33,6 +33,7 @@ iframe {
 ## Research
 The research efforts at Professor Fang’s group concentrate on focusing **wave physics** into sub-wavelength scales. While the main efforts focus on new insights of design for advanced manufacturing of **wave functional material and devices**, his group also actively pursue the applications in the areas of **energy conversion**, **communication**, and **biomedical imaging**. His research also leads to over 16 patent applications on nano- and micro-fabrication, additive manufacturing, and imaging technologies with successful technology transfer to industry (e.g. Osram, BASF, Nissan) and startups.
 
+<hr>
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 ### Acoustics and Ultrasound
@@ -47,7 +48,8 @@ The research efforts at Professor Fang’s group concentrate on focusing **wave 
 - Reverberation time control in small space
 - Sustainable and Lightweight design
 
-Reference: Building and Environment 244 (2023): 110753.
+Qu, S., et al., Reverberation time control by acoustic metamaterials in a small room. <i>	Build Environ</i> (2023)
+<a href="https://doi.org/10.1016/j.buildenv.2023.110753">Read more</a>
 
 ##### Soft metalens for broadband ultrasonic focusing
 <p align="center">
@@ -55,23 +57,24 @@ Reference: Building and Environment 244 (2023): 110753.
 </p>
 Reference: Nature Communications 16.1 (2025): 308.
 
-##### Acoustic bubbling
+<!-- ##### Acoustic bubbling
 <p align="center">
 <img src='/images/researchpic/Slide3.PNG' width="80%"/>
-</p>        
+</p> -->
 
-##### Implantable metagel for Contrast enhanced endoscopic ultrasound
+<!-- ##### Implantable metagel for Contrast enhanced endoscopic ultrasound
 <p align="center">
 <img src='/images/researchpic/Slide4.PNG' width="80%"/>
 </p>
 
 - After implanting the Metagel into visceral organs, such as the pancreas, a significant enhancement in contrast can be observed. 
 
-- The reflection of proposed Metagel can be customized with changing the bubble size. (f0=8.1MHz, 7.5MHz and 6.6MHz with d=200μm, 400μm and "80%"μm, respectively. ) 
+- The reflection of proposed Metagel can be customized with changing the bubble size. (f0=8.1MHz, 7.5MHz and 6.6MHz with d=200μm, 400μm and "80%"μm, respectively. )  -->
 </div>
 </div>
 
 <!-- ==================================================== -->
+<hr>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -86,20 +89,24 @@ Reference: Nature Communications 16.1 (2025): 308.
 <p align="center">
   <img src='/images/researchpic/Slide6.PNG' width="80%"/>
 </p>
+<a href="https://doi.org/10.1109/UFFC-JS60046.2024.10793787">Read more</a>
 
-##### Microscopy unraveling acoustic responsive dancing in Codariocalyx motorius
+<!-- ##### Microscopy unraveling acoustic responsive dancing in Codariocalyx motorius
 <p align="center">
   <img src='/images/researchpic/Slide7.PNG' width="80%"/>
-</p>
+</p> -->
 
 ##### Polar material terminal atom identification by XPS
 <p align="center">
   <img src='/images/researchpic/Slide8.PNG' width="80%"/>
 </p>
+<a href="https://doi.org/10.48550/arXiv.2407.10208">Read more</a>
+
 </div>
 </div>
 
 <!-- ==================================================== -->
+<hr>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -110,15 +117,15 @@ Reference: Nature Communications 16.1 (2025): 308.
   <img src='/images/researchpic/Slide9.PNG' width="80%"/>
 </p>
 
-##### Energy transfer exploration in Mn2+ doped perovskite
+<!-- ##### Energy transfer exploration in Mn2+ doped perovskite
 <p align="center">
   <img src='/images/researchpic/Slide10.PNG' width="80%"/>
-</p>
+</p> -->
 
-##### Optical modulation of 2D perovskite by SAW
+<!-- ##### Optical modulation of 2D perovskite by SAW
 <p align="center">
   <img src='/images/researchpic/Slide11.PNG' width="80%"/>
-</p>
+</p> -->
 
 ##### Defect emission of 2D hBN by plasma bombardment
 <p align="center">
@@ -128,6 +135,7 @@ Reference: Nature Communications 16.1 (2025): 308.
 </div>
 
 <!-- ==================================================== -->
+<hr>
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -161,13 +169,13 @@ Thermal hydrogels surpass UV-polymerized in uniformity yet struggle with rough s
 2.  Excellent imaging optical clarity.
 3.  NN achieves near-perfect accuracy (>99.9%) in biomarker concentration detection.
 
-##### Achievement of High-order Mode in ultrasound-responsive hydrogel
+<!-- ##### Achievement of High-order Mode in ultrasound-responsive hydrogel
 Ultrasound-responsive hydrogels have recently garnered widespread application in the biomedical field due to their superior biocompatibility and cost-effectiveness, particularly in the development of implantable and wearable advanced devices.
 
 <p align="center">
   <img src='/images/researchpic/Slide16.PNG' width="80%"/>
 </p>
 
-In this study, we achieved higher-order scattering modes in hydrogels by incorporating gaseous materials, demonstrating superior performance in biomedical ultrasound modulation with retrieved Q-factors. Elevated Q-values enhance device sensitivity and resolution, enabling more precise medical ultrasound applications.
+In this study, we achieved higher-order scattering modes in hydrogels by incorporating gaseous materials, demonstrating superior performance in biomedical ultrasound modulation with retrieved Q-factors. Elevated Q-values enhance device sensitivity and resolution, enabling more precise medical ultrasound applications. -->
 </div>
 </div>

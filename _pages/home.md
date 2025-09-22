@@ -23,6 +23,7 @@ We invite you to take a look at the publications to get a better idea of our pre
 <img src="/images/homepage/homepage1.png" width="100%"/><br/>
 Broadband Ultrasonic Focusing through Human Skull <br/>
 Dong, E., et al., Soft Metalens for Broadband Ultrasonic Focusing through Aberration Layers. <i>Nat  Commun</i> (2025)
+<a href="https://doi.org/10.1038/s41467-024-55022-2">Read more</a>
 <img src="/images/homepage/homepage2.png" width="100%"/><br/>
 Competitive coupling effect in i-TE hydrogel<br/>
 Li, C., unpublished
@@ -31,9 +32,17 @@ Li, C., unpublished
 </div>
 <br/>
 
-<!-- ### About me
+<div class="container">
+<div class="row">
+<center>
+<img src="/images/groupphoto/grouphoto2023Dec.JPG" width="100%"/><br/>
+Group photo at HKU, dated 2023 Dec
+</center>
+</div>
+</div>
+<br/>
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
+<!-- I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
 I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
 After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
 After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology. -->
