@@ -55,7 +55,8 @@ Qu, S., et al., Reverberation time control by acoustic metamaterials in a small 
 <p align="center">
 <img src='/images/researchpic/Slide2.PNG' width="80%"/>
 </p>
-Reference: Nature Communications 16.1 (2025): 308.
+Dong, E., et al., Soft Metalens for Broadband Ultrasonic Focusing through Aberration Layers. <i>Nat  Commun</i> (2025)
+<a href="https://doi.org/10.1038/s41467-024-55022-2">Read more</a>
 
 <!-- ##### Acoustic bubbling
 <p align="center">
