@@ -2,13 +2,28 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-
+<style>
+    .photo{
+        float:left;
+        width:50;
+    }
+    .name{
+        float:right;
+        width:100;
+    }
+</style>
 <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
     <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
-    <div align="center">
-        <img src="{{ site.url }}{{ site.baseurl }}/favicon.ico" width="30" height="30" style="margin-right:5px" class="d-inline-block align-top" alt="">
-        JC STEM Lab of Scalable and<br/>Sustainable Photonic Manufacturing
+    <!-- <div align="center"> -->
+        <!-- <img src="{{ site.url }}{{ site.baseurl }}/favicon.ico" width="30" height="30" style="margin-right:5px" class="d-inline-block align-top" alt=""> -->
+        <!-- JC STEM Lab of Scalable and<br/>Sustainable Photonic Manufacturing -->
       <!-- {{ site.title | escape }} -->
+    <!-- </div> -->
+    <div class="photo">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/HKU.png" style="margin-right:5px" height="50" alt="">
+    </div>
+    <div class="name">
+        JC STEM Lab of Scalable and<br/>Sustainable Photonic Manufacturing
     </div>
     </a>
     <button class="toggler navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
