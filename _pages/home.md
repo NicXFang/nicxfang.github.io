@@ -35,7 +35,7 @@ Li, C., unpublished
 <div class="container">
 <div class="row">
 <center>
-<img src="/images/groupphoto/grouphoto2023Dec.JPG" width="100%"/><br/>
+<img src="/images/groupphoto/groupphoto2023Dec.JPG" width="100%"/><br/>
 Group photo at HKU, dated 2023 Dec
 </center>
 </div>
