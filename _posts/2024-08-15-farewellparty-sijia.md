@@ -5,4 +5,4 @@ date: 2024-08-15
 categories: "Fun"
 ---
 
-<img src='/images/events/farewellparty2024Aug15.JPG' width="80%"/>
+<img src='/images/events/2024Aug15-farewellparty.JPG' width="80%"/>

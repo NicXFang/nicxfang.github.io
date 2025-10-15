@@ -5,4 +5,4 @@ date: 2024-07-01
 categories: "Fun"
 ---
 
-<img src='/images/events/shenzhenparty2024Jul1.JPG' width="80%"/>
+<img src='/images/events/2024Jul1-shenzhenparty.JPG' width="80%"/>

@@ -5,4 +5,4 @@ date: 2023-12-06
 categories: "Fun"
 ---
 
-<img src='/images/events/sijiagraduation2023Dec06.JPG' width="80%"/>
+<img src='/images/events/2023Dec06-sijiagraduation.JPG' width="80%"/>
