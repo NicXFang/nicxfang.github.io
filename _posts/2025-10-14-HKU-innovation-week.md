@@ -15,7 +15,7 @@ Our group were proud to demonstrate their latest research breakthroughs during H
 
 <img src='/images/events/2025Oct14-HKUinnoweek/erqian.jpg' width="80%"/>
 
-<img src='/images/events/2025Oct14-HKUinnoweek/setup.jpg' width="80%"/>
+<img src='/images/events/2025Oct14-HKUinnoweek/device.png' width="80%"/>
 
-<img src='/images/events/2025Oct14-HKUinnoweek/imaging.jpg' width="80%"/>
+<img src='/images/events/2025Oct14-HKUinnoweek/imaging.png' width="80%"/>
 
