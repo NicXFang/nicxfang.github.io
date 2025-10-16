@@ -62,7 +62,11 @@
   photo: team/yyang.jpg
   email: yy_yanyang@connect.hku.hk
   role: 2024 PhD student
-  info: ""
+  info: "My research interests include photoacoustics, laser spectroscopy and optical devices.\n
+  - Photoacoustic Spectroscopy (PAS)\n
+  - Light-Matter Interaction (Photothermal effect , Thermoacoustics)\n
+  - Trace Gas Sensing\n
+  - Miniaturized Spectrometers"
   # website: https://website.com
 
 - name: Yihan Jin
