@@ -30,6 +30,6 @@ HKU also offers other scholarships:
 
 ### 📬 How to Apply
 
-Please send your CV, academic transcripts, and a brief statement of research interest to Prof. Nick Fang <a href="mailto:nicxfang@hku.hk" target="_blank">
+Please send your CV, academic transcripts, and a brief statement of research interest to Prof. Nick Fang <a href="mailto:nicxfang@hku.hk" target="_blank">nicxfang@hku.hk</a>
 
 We look forward to welcoming new minds to our team!
