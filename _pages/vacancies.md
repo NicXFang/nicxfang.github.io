@@ -15,8 +15,7 @@ As part of our team, you'll collaborate in an interdisciplinary, dynamic, and su
 
 ### 🎓 Scholarship Opportunity
 
-Outstanding full-time PhD applicants may be eligible for the  
-**Hong Kong PhD Fellowship Scheme**, which offers:
+Outstanding full-time PhD applicants may be eligible for the **Hong Kong PhD Fellowship Scheme**, which offers:
 
 - ✅ Cash Award to support research and living expenses
 - ✅ Waiver of composition fees for the whole normative study period
