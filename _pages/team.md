@@ -5,11 +5,9 @@ sitemap: false
 permalink: /team/
 ---
 
-## Team
+**We are currently looking for new team members of RPg students for 2026/27 admission** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-<!-- **We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
-
-## PI
+# Team
 
 {% for member in site.data.pi %}
 
@@ -124,6 +122,7 @@ permalink: /team/
 </div>
 {% endif %}
 </div>
+
 ## Alumni
 
 <div class="jumbotron">
@@ -137,12 +136,12 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-2">
+<!-- <div class="col-sm-2">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ member.photo }}" width="100%" style="max-width:250px"/>
-</div>
+</div> -->
 <div class="col-sm-4 col-xs-12">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br>{{ member.role }}</i>
   <ul style="overflow: hidden">
   </ul>
 </div>

@@ -30,7 +30,7 @@ iframe {
 }
 </style>
 
-## Research
+# Research
 The research efforts in Professor Fang’s group concentrate on focusing **wave physics** into sub-wavelength scales. While the main efforts focus on new insights of design for advanced manufacturing of **wave functional material and devices**, his group also actively pursue the applications in the areas of **energy conversion**, **communication**, and **biomedical imaging**. His research also leads to over 16 patent applications on nano- and micro-fabrication, additive manufacturing, and imaging technologies with successful technology transfer to industry (e.g. Osram, BASF, Nissan) and startups.
 
 <hr>

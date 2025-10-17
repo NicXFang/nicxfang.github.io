@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
+# Welcome to Nick Fang's Lab!
 
 Professor Fang is trained as an applied physicist and educator with focus on optical and acoustic materials. Built upon our unique and world-leading expertise in advanced wave functional materials, Professor Fang's new research team of sustainable nanophotonics at HKU will launch the following research efforts:
 1. Can photonic manufacturing boost the sustainability and efficiency of catalytic conversion?
@@ -15,6 +15,8 @@ Professor Fang is trained as an applied physicist and educator with focus on opt
 Specialties: Photonics, Nanofabrication, Advanced Imaging Technology
         
 We invite you to take a look at the publications to get a better idea of our previous research. Feel free to get in touch with Professor Fang to say hi or for more information.
+
+**We are currently looking for new team members of RPg students for 2026/27 admission** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <div class="container">
 <div class="row">
