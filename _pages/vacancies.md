@@ -5,7 +5,7 @@ sitemap: false
 permalink: /vacancies/
 ---
 
-# 🌟 Join Nick Fang's Lab as an RPg Student!
+## 🌟 Join Nick Fang's Lab as an RPg Student!
 
 We are currently inviting applications from motivated and talented individuals to join our team as **Research Postgraduate (RPg) students** for 2026/27 admission!
 
@@ -13,7 +13,7 @@ Our group focuses on multiple disciplines including but not limited to **ultraso
 
 As part of our team, you'll collaborate in an interdisciplinary, dynamic, and supportive environment that fosters curiosity, rigor, and creativity.
 
-## 🎓 Scholarship Opportunity
+### 🎓 Scholarship Opportunity
 
 Outstanding full-time PhD applicants may be eligible for the  
 **Hong Kong PhD Fellowship Scheme**, which offers:
@@ -29,7 +29,7 @@ HKU also offers other scholarships:
 - HKU Presidential PhD Scholar Programme 🔗 [Check more details](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)
 - Postgraduate Scholarships for full-time PhD and MPhil students 🔗 [Check more detials](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships)
 
-## 📬 How to Apply
+### 📬 How to Apply
 
 Please send your CV, academic transcripts, and a brief statement of research interest to Prof. Nick Fang <a href="mailto:nicxfang@hku.hk" target="_blank">
 
