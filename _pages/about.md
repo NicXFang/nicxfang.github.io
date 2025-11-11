@@ -34,7 +34,7 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
+<!-- {% if site.data.grants %}
 
 <div class="jumbotron">
   <h3>Grants</h3>
@@ -44,7 +44,7 @@ permalink: /about/
     {% endfor %}
   </ul>
 </div>
-{% endif %}
+{% endif %} -->
 
 {% if site.data.employment %}
 
@@ -86,6 +86,6 @@ permalink: /about/
 <div class="jumbotron">
   <h4>Grants</h4>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
-  {% for grant in site.data.funders %}<a href="{{ grants.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/grants/{{ grant.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
+  {% for grant in site.data.grants %}<a href="{{ grants.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/grants/{{ grant.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
 </div>
