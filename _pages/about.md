@@ -83,9 +83,9 @@ permalink: /about/
 </div>
 {% endif %}
 
-<!-- <div class="jumbotron">
-  <h4>Sponsors</h4>
+<div class="jumbotron">
+  <h4>Grants</h4>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
-  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
+  {% for grant in site.data.funders %}<a href="{{ grants.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/grants/{{ grant.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
-</div> -->
+</div>

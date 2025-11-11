@@ -1,0 +1,23 @@
+- name: Haiou Lu
+#   photo: rock.jpg
+  duration: 2023-08 to 2024-01
+  role: Visiting PhD student, Now at Tsinghua University
+#   email: exampleemail@gmail.com
+
+- name: Dr. Jin Zhang
+#   photo: rock.jpg
+  duration: 2024-10 to 2024-12
+  role: Visiting Scholar, Now at Aalto University
+#   email: exampleemail@gmail.com
+
+- name: Dr. Sijia Wang
+#   photo: rock.jpg
+  duration: 2022-08 to 2024-08
+  role: PhD graduate, Postdoc # Now at Univeristy of X
+#   email: exampleemail@gmail.com
+
+- name: Dr. Xiaochuan Wu
+#   photo: rock.jpg
+  duration: 2025-01 to 2025-07
+  role: Postdoc # Now at Univeristy of X
+#   email: exampleemail@gmail.com
