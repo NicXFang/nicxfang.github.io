@@ -6,7 +6,7 @@
   # url: https://www.onr.navy.mil/
 - image: most.png
   # url: https://www.nih.gov/
-# - image: nsfc.png
+- image: nsfc.png
 - image: rgc.jpg
 - image: ugc.png
 # - image: ecf.png
