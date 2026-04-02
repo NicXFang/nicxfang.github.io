@@ -27,8 +27,9 @@ Broadband Ultrasonic Focusing through Human Skull <br/>
 Dong, E., et al., Soft Metalens for Broadband Ultrasonic Focusing through Aberration Layers. <i>Nat  Commun</i> (2025)
 <a href="https://doi.org/10.1038/s41467-024-55022-2">Read more</a>
 <img src="/images/homepage/homepage2.png" width="100%"/><br/>
-Competitive coupling effect in i-TE hydrogel<br/>
-Li, C., unpublished
+Modulating thermo-diffusion/galvanic coupling via ion speciation engineering enables high-performance ionic thermoelectric cells. <i>Nat Commun</i> (2026)
+<a href="http://dx.doi.org/10.1038/s41467-026-68721-9">Read more</a>
+
 </center>
 </div>
 </div>

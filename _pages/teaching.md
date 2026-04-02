@@ -11,7 +11,7 @@ permalink: /teaching/
 - 2025 Sem1
   - MECH4411 Heat transfer
   - MECH4429 Integrated capstone experience
-- 2025 Sem1
+- 2024 Sem1
   - MECH7004 Advanced topics in solids mechanics research
   - MECH4429 Integrated capstone experience
   - MECH4411 Heat transfer
