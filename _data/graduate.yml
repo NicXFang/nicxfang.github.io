@@ -21,6 +21,19 @@
   - Wave Behaviors"
   website: https://heliosynl.github.io/
 
+- name: Hengzhe Ren
+  photo: team/hzren.jpg
+  email: renhengzhe@connect.hku.hk
+  role: PhD student, from 2026 September
+  info: "My research focuses on medical ultrasound imaging, acoustic metasurfaces, and wavefront engineering."
+
+- name: Jianyu Wang
+  photo: team/jywang.png
+  email: jianyuwang@connect.hku.hk
+  scholar: https://scholar.google.com/citations?user=IZHivHEAAAAJ
+  role: PhD student, from 2026 September
+  info: "My research interests include medical devices, microelectronic devices, metamaterials, AI agent systems, and AI-driven design. Feel free to contact me!"
+
 - name: Joey Zhouyuntong Liu
   photo: team/joeyliu.jpg
   email: lzyt66@connect.hku.hk
@@ -83,6 +96,12 @@
   role: PhD student, from 2025 September
   info: "PhD student in mechanical engineering with three years of experience in medical image processing, robotic surgery, and image-guided therapy, focused on enhancing surgical precision and patient outcomes. Currently developing ultrasound technology for clinical applications, with a commitment to advancing healthcare through innovation and translational research."
   # website: https://website.com
+
+- name: Zixun Ge
+  photo: team/zxge.jpg
+  email: zixun_ge18@connect.hku.hk
+  role: PhD student, from 2026 September
+  info: "My research focuses on underwater acoustics, scattering theory."
 
 # - name: "This could be you !"
 #   photo: rock.jpg
