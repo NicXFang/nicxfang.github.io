@@ -60,6 +60,13 @@
             - Thermal management in high power electronics"
   # website: https://website.com
 
+- name: Dr. Xuanzhang Hao
+  photo: team/hxzhang.jpg
+  email: haoxz@hku.hk
+  scholar: https://scholar.google.com/citations?hl=zh-CN&user=8t7twUIAAAAJ&view_op=list_works&sortby=pubdate
+  role: Postdoc
+  info: "My research focuses on advanced manufacturing, carbon-based functional materials, and hydrogels. I design microstructures and interfaces to regulate heat and mass transport and energy conversion."
+
 - name: Yonghao Zhen
   photo: team/yhzhen.jpg
   email: zhenyh@hku.hk
