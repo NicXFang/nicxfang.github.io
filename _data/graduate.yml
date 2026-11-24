@@ -48,11 +48,7 @@
   photo: team/yyang.jpg
   email: yy_yanyang@connect.hku.hk
   role: PhD student, from 2024 November
-  info: "My research interests include photoacoustics, laser spectroscopy and optical devices.\n
-  - Photoacoustic Spectroscopy (PAS)\n
-  - Light-Matter Interaction (Photothermal effect , Thermoacoustics)\n
-  - Trace Gas Sensing\n
-  - Miniaturized Spectrometers"
+  info: "My research interests include photoacoustics, laser spectroscopy and optical devices."
   # website: https://website.com
 
 - name: Fangyu Liu
